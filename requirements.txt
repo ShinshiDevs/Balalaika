@@ -1,0 +1,5 @@
+yarl
+hikari
+aiohttp
+attrs
+colorlog
